@@ -3,6 +3,6 @@ Second project following the course of [The Odin Project](https://www.theodinpro
 
 ## Live Demo:
 
-![demo](public/demo.png)
+![demo](public/demo1.png)
 
 [View Live Demo](https://jasmirmd.github.io/odin-landing-page/)
