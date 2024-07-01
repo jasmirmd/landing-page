@@ -1,8 +1,8 @@
-# Odin Landing Page
+# Landing Page
 Second project following the course of [The Odin Project](https://www.theodinproject.com), a basic landing page as flexbox practice.
 
 ## Live Demo:
 
 ![demo](public/demo1.png)
 
-[View Live Demo](https://jasmirmd.github.io/odin-landing-page/)
+[View Live Demo](https://jasmirmd.github.io/landing-page/)
